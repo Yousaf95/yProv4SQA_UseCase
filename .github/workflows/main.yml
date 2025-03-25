@@ -1,4 +1,4 @@
-name: Quality_Assessment_&_Awarding_v2
+name: main.yml
 
 on:
   push:
