@@ -10,6 +10,6 @@ def test_generate_random_number():
     assert min_val <= random_number <= max_val, f"Random number {random_number} is out of range"
 
 def test_add_numbers():
-    """Test the add_numbers function."""
+    """Test the add_numbers  function."""
     result = add_numbers(2, 3)
     assert result == 5, f"Expected 5, but got {result}"
